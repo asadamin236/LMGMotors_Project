@@ -330,8 +330,8 @@ button {
   margin-left: 30px;
   margin-right: 30px;
   display: flex;
-  /* align-items: center;
-  justify-content: center; */
+  align-items: center;
+  justify-content: center;
   position: relative;
   padding: 10px 10px;
   background-color: rgba(0, 0, 0, 0.778);
