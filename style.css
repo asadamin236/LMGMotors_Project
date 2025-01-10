@@ -328,7 +328,7 @@ button {
   height: 80px;
   width: 1425px;
   margin-left: 20rem;
-/*   margin-right: 30px; */
+  margin-right: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
