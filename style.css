@@ -361,6 +361,7 @@ button {
 
 .logo-footer {
   flex-direction: column;
+  margin-left: 5rem;
 }
 
 
