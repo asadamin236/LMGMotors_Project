@@ -327,8 +327,8 @@ button {
 .nav-bar2 {
   height: 80px;
   width: 1425px;
-  margin-left: 15rem;
-/*   margin-right: 30px; */
+  margin-left: 13rem;
+  margin-right: 40px;
   display: flex;
   align-items: center;
   justify-content: center;
