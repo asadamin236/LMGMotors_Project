@@ -325,10 +325,10 @@ button {
 } */
 
 .nav-bar2 {
-  height: 80px;
+  height: 100%;
   width: 1425px;
-  margin-left: 14.30rem;
-  margin-right: 20px;
+/*   margin-left: 14.30rem;
+  margin-right: 20px; */
   display: flex;
   align-items: center;
   justify-content: center;
