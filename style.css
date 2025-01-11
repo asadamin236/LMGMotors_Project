@@ -104,13 +104,15 @@ body {
 .location-logo a:hover {
   color: blanchedalmond;
 }
+
 .contact-us {
   width: 1400px;
   border: 2px solid white;
   padding: 20px;
   text-align: center;
   justify-content: center;
-  margin-left: 2rem;
+  margin: 0 auto; /* Automatically centers the container horizontally */
+  display: block; /* Makes the container a block-level element */
 }
 
 .contact-us h3 {
